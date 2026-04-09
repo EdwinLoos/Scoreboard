@@ -1,19 +1,52 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Scrimba - Scoreboard solution
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This is a solution to the [Basketball Scoreboard Solo Project](https://scrimba.com/learn/frontend/solo-project-basketball-scoreboard-cz9adVfP) from the [Frontend developper path](https://scrimba.com/learn/frontend) on [Scrimba](https://scrimba.com/).
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Table of contents
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [Overview](#overview)
+  - [Goals](#goals)
+  - [Links](#links)
 
-Happy Coding!
+- [Process](#process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+ 
+- [Author](#author)
+
+## Overview
+
+### Goals
+
+- Display basketball scores following a Figma design. 
+- Built from scratch.
+- Make all buttons work
+
+I have continued with these stretch goals:
+- Add Reset buttons to reset points to 0
+- Change hover and active states to buttons
+- Adapt the overall design
+
+### Links
+
+- Live Site: [DEMO](https://vinh-nguyen-code.github.io/Scoreboard-Scrimba/)
+
+## Process
+
+### Built with
+
+- HTML5
+- CSS3
+- Javascript
+- Visual Studio Code
+
+### What I learned
+
+- Flexbox
+- Semantic HTML
+- DOM
+
+## Author
+
+- Github - [Vinh NGUYEN](https://github.com/vinh-nguyen-code)
+- Linkedin - [Vinh NGUYEN](https://www.linkedin.com/in/tuan-vinh-nguyen/)
